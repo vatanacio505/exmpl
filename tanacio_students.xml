@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+
+    <book>
+        <title>Dread and Dominion</title>
+        <author>Zenn</author>
+        <year>2026</year>
+        <genre>Psychological</genre>
+    </book>
+
+    <book>
+        <title>Game Design Deep Dive: Role-Playing Games</title>
+        <author>Joshua Bycer</author>
+        <year>2023</year>
+        <genre>Game Design</genre>
+    </book>
+
+    <book>
+        <title>Complete Kobold Guide to Game Design</title>
+        <author>Wolfgang Baur</author>
+        <year>2012</year>
+        <genre>Game Development</genre>
+    </book>
+
+</books>
